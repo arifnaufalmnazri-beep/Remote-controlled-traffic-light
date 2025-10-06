@@ -9,3 +9,5 @@ The LED's only turn on when a specific signal from the remote is received by the
 
 ## Footage
 Here's some footage of it working: 
+
+![Uploading Untitledvideo-MadewithClipchamp4-ezgif.com-video-to-gif-converter.gif…]()
