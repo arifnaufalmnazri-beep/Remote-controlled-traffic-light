@@ -12,3 +12,10 @@ Here's some footage of it working:
 
 ![Untitledvideo-MadewithClipchamp4-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/cae0751c-d010-49ea-8900-9b0b0d4421e6)
 
+## The Code
+Making this code taught me a lot about remote controls using remote controls. Here's the code: 
+
+[trafficControl.ino](trafficControl.ino)
+
+## What's next
+I'm planning to use what I've learned today in a future robot arm build. It would be really exciting to see how a remote controlled arm would work with an Arduino, as well as figuring out the components, forces and composition of the entire build. I will post that build here as soon as I finich building it. For now, this is just another step towards my university scholarship dreams.
